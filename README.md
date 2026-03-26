@@ -11,4 +11,4 @@ FIXME
     WORKBOOK_PATH
     
 extractor_parser.py:
-  extracts voting data from corresponding powerpoint and populates into sheet.
+  extracts voting data from corresponding powerpoint and populates initials into sheet, populates a tally of all the votes.
