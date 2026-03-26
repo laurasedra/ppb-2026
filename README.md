@@ -10,3 +10,5 @@ FIXME
   The only things that need to be changed to keep the integrity of the code is while also customizing to your own files:
     WORKBOOK_PATH
     
+extractor_parser.py:
+  extracts voting data from corresponding powerpoint and populates into sheet.
